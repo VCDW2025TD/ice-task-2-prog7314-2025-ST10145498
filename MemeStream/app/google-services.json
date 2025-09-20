@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "696998730887-hgbfcdst2rrgu8j40m9of14fdc9mqq9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.projects.memestream",
+            "certificate_hash": "2d9e231809d1504349796a0b6407dca1d41df12d"
+          }
+        },
+        {
           "client_id": "696998730887-mh0u3og6ovfncr5l52pe73214tp0begv.apps.googleusercontent.com",
           "client_type": 3
         }
